@@ -1,5 +1,4 @@
 ## 임흥현
-+ Email: dlagmdgus@gmail.com
 + Blog: https://lheunx.tistory.com/
 + Github: https://github.com/Lheunx
 
